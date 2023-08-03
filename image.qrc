@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="buttonImage">
+    <file>assets/ganyu.webp</file>
+    <file>assets/icon.bmp</file>
+  </qresource>
+</RCC>
